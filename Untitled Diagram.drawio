@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T13:06:04.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="yik2OtUrD9J_iMRrXl1p" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-06T13:07:05.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="__gkY09JkYX1vsfZK-by" version="15.0.6" type="github" pages="2">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="current-architecture">
     <mxGraphModel dx="1577" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -841,9 +841,6 @@
         </mxCell>
         <mxCell id="-SpWv9DVOm0-_PqPHZgX-31" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Frontend service&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;rounded=1;" vertex="1" parent="-SpWv9DVOm0-_PqPHZgX-29">
           <mxGeometry x="25" y="30" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-SpWv9DVOm0-_PqPHZgX-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-128.png;container=0;" vertex="1" parent="-SpWv9DVOm0-_PqPHZgX-29">
-          <mxGeometry x="147" y="19.579999999999984" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="-SpWv9DVOm0-_PqPHZgX-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/knative/website/673f3d27fb5f58ecbeac8d7fbee703408d263335/assets/icons/logo.svg;container=0;" vertex="1" parent="-SpWv9DVOm0-_PqPHZgX-29">
           <mxGeometry x="1" y="1.9999999999999432" width="45" height="36.38" as="geometry" />
