@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T12:34:31.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="RamVlTebTWiQU-JBoGne" version="15.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:53:02.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="oRULYuZJj_jJIEf_cXyN" version="15.2.7" type="github" pages="3">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="current-architecture">
-    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,7 +466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="event-driven architecture" id="sIry8HQPpuZzZutrZcrx">
-    <mxGraphModel dx="2276" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zCkMb1hAaJskj9UZId1U-0" />
         <mxCell id="zCkMb1hAaJskj9UZId1U-1" parent="zCkMb1hAaJskj9UZId1U-0" />
@@ -992,7 +992,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of event-driven architecture" id="VfbKJHFpPzGGVPSw5s1u">
-    <mxGraphModel dx="2276" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3227" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EV6LFwN2DMOxPGQEEUw6-0" />
         <mxCell id="EV6LFwN2DMOxPGQEEUw6-1" parent="EV6LFwN2DMOxPGQEEUw6-0" />
@@ -1443,6 +1443,9 @@
         <mxCell id="EV6LFwN2DMOxPGQEEUw6-138" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_pipeline;fillColor=#F58534;gradientColor=none;fontSize=21;fontColor=#000000;rounded=1;" parent="EV6LFwN2DMOxPGQEEUw6-117" vertex="1">
           <mxGeometry y="140" width="38.5" height="46.2" as="geometry" />
         </mxCell>
+        <mxCell id="z6SklhquJGv17vsopUJL-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" vertex="1" parent="EV6LFwN2DMOxPGQEEUw6-117">
+          <mxGeometry x="220" y="126" width="128" height="128" as="geometry" />
+        </mxCell>
         <mxCell id="EV6LFwN2DMOxPGQEEUw6-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="EV6LFwN2DMOxPGQEEUw6-1" source="EV6LFwN2DMOxPGQEEUw6-53" target="EV6LFwN2DMOxPGQEEUw6-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-304" y="470" as="sourcePoint" />
@@ -1538,16 +1541,16 @@
         <mxCell id="EV6LFwN2DMOxPGQEEUw6-158" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" parent="EV6LFwN2DMOxPGQEEUw6-1" vertex="1">
           <mxGeometry x="305" y="426" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="W4BtsX5fEuKJp2IWzAbq-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" vertex="1" parent="EV6LFwN2DMOxPGQEEUw6-1">
+        <mxCell id="W4BtsX5fEuKJp2IWzAbq-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" parent="EV6LFwN2DMOxPGQEEUw6-1" vertex="1">
           <mxGeometry x="-498" y="436" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="W4BtsX5fEuKJp2IWzAbq-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" vertex="1" parent="EV6LFwN2DMOxPGQEEUw6-1">
+        <mxCell id="W4BtsX5fEuKJp2IWzAbq-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" parent="EV6LFwN2DMOxPGQEEUw6-1" vertex="1">
           <mxGeometry x="-308" y="428" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="W4BtsX5fEuKJp2IWzAbq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" vertex="1" parent="EV6LFwN2DMOxPGQEEUw6-1">
+        <mxCell id="W4BtsX5fEuKJp2IWzAbq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" parent="EV6LFwN2DMOxPGQEEUw6-1" vertex="1">
           <mxGeometry x="-114" y="430" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="W4BtsX5fEuKJp2IWzAbq-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" vertex="1" parent="EV6LFwN2DMOxPGQEEUw6-1">
+        <mxCell id="W4BtsX5fEuKJp2IWzAbq-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fillColor=#7CFF3B;gradientColor=none;opacity=50;" parent="EV6LFwN2DMOxPGQEEUw6-1" vertex="1">
           <mxGeometry x="95" y="436" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
